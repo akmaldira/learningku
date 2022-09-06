@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974287264035",
+    "project_id": "learningku-9e7a0",
+    "storage_bucket": "learningku-9e7a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974287264035:android:3038eaac1d084f121d1496",
+        "android_client_info": {
+          "package_name": "dev.akmaldira.learningku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974287264035-a1ec28e216q6co68dg3oobvk7pshp9mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFrG3lMOs0-PFV6uczuHdzZhM7Nw5kx1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974287264035-a1ec28e216q6co68dg3oobvk7pshp9mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
